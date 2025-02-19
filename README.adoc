@@ -1,4 +1,4 @@
-# *Asteroid Game* , un projet de 3ème année de Licence Informatique
+# *Asteroid*, un projet de 3ème année de Licence Informatique
 **NOM DES ÉTUDIANTS** : \
 Ahmad HATOUM (22202060) - Bastien Guibert (22307051)
 
