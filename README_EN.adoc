@@ -4,7 +4,9 @@
 Asteroid Destroyer is a classic arcade game developed in Rust. In this game, you pilot a spaceship and must destroy asteroids while avoiding black holes. 🌟
 
 == Project Structure 🛠️
+
 The project is organized into several modules for better code management:
+
 - `asteroid`: Manages asteroids in the game. 🌑
 - `blackhole`: Manages black holes. 🕳️
 - `classic` and `modern`: Contain functions specific to classic and modern game modes. 🎮
@@ -15,13 +17,17 @@ The project is organized into several modules for better code management:
 - `utils`: Various utility functions. 🔧
 
 == Quick Start 🚀
+
 To start the game, follow these steps:
+
 1. Clone this repository: `git clone https://github.com/htm21/projet_asteroid.git`
 2. Navigate to the project directory: `cd projet_asteroid`
 3. Build and run the game: `cargo run`
 
 == Game Controls 🎮
-- Use the arrow keys to move the spaceship (controls can be modified in the settings). ⬆️⬇️⬅️➡️
+
+- Use the arrow keys to move the spaceship (controls can be modified in the settings). ⬆️⬇️⬅️
+
 - Press the space bar to shoot missiles. 🔫
 - Press "P" to pause the game. ⏸️
 - Press "Backspace" to quit the game. ⏹️
@@ -29,23 +35,25 @@ To start the game, follow these steps:
 == Screenshots 📷
 
 ### Main Screen
-![Main Screen](images/ecran_principal.png)
+image::images/ecran_principal.png[Main Screen]
 *The main screen of the game.*
 
 ### Settings
-![Settings](images/reglages.png)
+image::images/settings.png[Settings]
 *The settings screen, where control parameters can be modified.*
 
 ### Skins
-![Skins](images/skins.png)
+image::images/skins.png[Skins]
 *Available skin options.*
 
 ### In-Game
-![In-Game](images/in_game.png)
+image::images/in_game.png[In-Game]
 *In-game screenshot.*
 
 == Contributing 🤝
+
 Contributions are welcome! To contribute, follow these steps:
+
 1. Fork the repository. 🍴
 2. Create a branch for your feature (`git checkout -b feature/awesome-feature`). 🌿
 3. Commit your changes (`git commit -m 'Add some awesome feature'`). 💾
@@ -53,4 +61,4 @@ Contributions are welcome! To contribute, follow these steps:
 5. Open a Pull Request. 🔄
 
 == License 📄
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the link:LICENSE[LICENSE] file for details.

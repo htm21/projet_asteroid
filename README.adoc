@@ -1,5 +1,5 @@
 = Asteroid Terrifier 3000 🚀🌌
 
 == Choisissez votre langue / Choose your language
-- [Français](README_FR.adoc) 🇫🇷
-- [English](README_EN.adoc) 🇬🇧
+- link:README_FR.adoc[README en Français 🇫🇷]
+- link:README_EN.adoc[README in English 🇬🇧]
